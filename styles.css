@@ -33,6 +33,7 @@ header {
 .imgBig {
     Width: 500px;
     display: inline-block;
+    margin-left: 47px;
 }
 
 .primariH1 {
