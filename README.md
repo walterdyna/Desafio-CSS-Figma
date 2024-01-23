@@ -2,6 +2,8 @@ Wide Coverage Location - Documentação
 
 Descrição do Projeto
 
+link figma - https://encurtador.com.br/uACM5
+
 Bem-vindo ao Wide Coverage Location, um site que apresenta informações sobre cobertura de transporte na sua região. Utilizando HTML e CSS, criamos uma interface amigável e informativa. A seguir, apresentamos a estrutura e alguns estilos-chave do projeto.
 
 
